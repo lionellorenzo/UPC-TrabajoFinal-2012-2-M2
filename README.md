@@ -5,7 +5,7 @@ Trabajo final de POO
 
 GRUPO NETBEANS
 
-Miembros:   Jenner Lionel Lorenzo Peña
+Miembros:   Jenner Lionel Lorenzo Peña, 
             Cesar Miguel Illescas
 
 
